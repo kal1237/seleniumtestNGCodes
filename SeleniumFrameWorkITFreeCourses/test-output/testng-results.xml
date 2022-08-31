@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-31T16:58:12 CDT" name="Suite" finished-at="2022-08-31T16:58:51 CDT" duration-ms="39426">
+    <groups>
+    </groups>
+    <test started-at="2022-08-31T16:58:12 CDT" name="Test" finished-at="2022-08-31T16:58:51 CDT" duration-ms="39426">
+      <class name="com.selfmwk.testCases.TestCases">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:com.selfmwk.testCases.TestCases@353d0772]" started-at="2022-08-31T16:58:12 CDT" name="setUpSuite" finished-at="2022-08-31T16:58:12 CDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.selfmwk.testCases.TestCases@353d0772]" started-at="2022-08-31T16:58:12 CDT" name="setUp" finished-at="2022-08-31T16:58:20 CDT" duration-ms="7860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FreeCoursesNarrowByResultsCorrectCount()[pri:0, instance:com.selfmwk.testCases.TestCases@353d0772]" started-at="2022-08-31T16:58:20 CDT" name="FreeCoursesNarrowByResultsCorrectCount" finished-at="2022-08-31T16:58:51 CDT" duration-ms="31348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FreeCoursesNarrowByResultsCorrectCount -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.selfmwk.testCases.TestCases@353d0772]" started-at="2022-08-31T16:58:51 CDT" name="quit" finished-at="2022-08-31T16:58:51 CDT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.selfmwk.testCases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
